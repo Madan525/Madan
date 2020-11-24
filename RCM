@@ -1,0 +1,114 @@
+<!doctype html>
+
+<html lang='eng'>
+	<head>
+		<title>Not a Real CRM</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="initial-scale=1.0">
+	</head>
+
+	<body>
+
+        <header>
+        <h1>Not a Real CRM</h1>
+    <head>
+        <title>Not a Real CRM</title>
+        <meta charset="UTF-8">
+            <meta name="viewport" content="initial-scale=1.0">
+                </head>
+
+    <body>
+
+        
+            <nav>
+           <ul>
+               <li><a href="#Home">Home</a></li>
+               <li><a href="#Catalog">Catalog</a></li>
+               <li><a href="#Inventory">Inventory</a></li>
+              
+            </ul>
+            </nav>
+
+            
+
+        </header>
+        <h1>contacts</h1>
+        <h2>My CRM</h2>
+        <ul>
+
+        <nav class="home">
+            
+           <li a href="Contacts">Contacts</a></li>
+           <li a href="Orders">Orders</a></li>
+           <li a href="celendar">Calendar</a></li>
+           <li a href="Tasks">Tasks</a></li>
+           <li a href="Evaluation">Evaluation Copies</a></li>
+                
+
+            </nav>
+
+            
+        </ul>
+           <table border="1" center>
+               <tr>
+                   
+        
+                   <td >
+                       <image src="image1/mdn.JPG"  alt="Madan Tharu" width='100' height='100'><br>
+                        
+                       
+                        
+                   </td>
+                   
+                    
+               </tr>
+           </table>
+           Madan Tharu
+        <section>
+            <p>
+        
+              <h1 >Madan Tharu</h1>
+
+                    Address:Devdaha-11,Nepal <br>
+                    City: Butwal <br>
+                    Region: Nepal <br>
+                    Country: Nepal <br>
+                    Postal: 32914 <br>
+            </p> 
+               <p> 
+           
+             <h2 >Contacts</h2>
+             Phone: +(977) 9815437680 <br>
+             Email: <a href="">madantharu00@gmail.com</a>
+               </p>
+            
+            <img src="image1/edit.png" width=20 heigth=10  alt="edit this contact" title="edit this contact">
+            <img src="image1/add.jpg" width=20 heigth=10alt="Add a new contact" title="Add a new contact">
+            <img src="image1/delete.jpg" width=20 heigth=10 alt="delete this contact" title="delete this contact">
+            <img src="image1/email.jpg"width=20 heigth=10 alt="email the contact" title="email the contact">
+            <img src="image1/appointment.png"width=20 heigth=10 alt="appointment" title="appointment">
+
+        
+
+        <div id = map>
+        <img src="image1/Madan Tharu map.jpg" alt="Madan Tharu map" title="Madan Tharu map">
+        <figcaption>
+            <em>Map for Madan Tharu</em>
+        </figcaption>
+        
+        <h3>Last Contact Viewed</h3>
+
+        <footer>
+
+        <p><a href="">city engineering college</a><br>University of Banglore</p>
+
+            
+            
+        </footer>
+
+        <p id = "home"><a href="#">Home</a> | <a href="#">Catalog</a> | <a href="#">Inventory</a><br>
+        <em>Copyright &copy; <time>2020</time> Not a Real CRM</em></p>
+	</body>
+</html> 
+    </body>
+</html>
